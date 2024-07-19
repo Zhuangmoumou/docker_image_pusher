@@ -4,3 +4,10 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+calciumion/new-api:latest
+zklcdc/go-proxy-bingai:latest-with-pass
+zklcdc/go-proxy-bingai:latest
+lobehub/lobe-chat
+yidadaa/chatgpt-next-web
+q11391/pandora-helper
+pengzhile/fuclaude
